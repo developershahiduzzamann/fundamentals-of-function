@@ -17,5 +17,5 @@ function isodd (number){
         return false;
     }
 }
-console.log(isEven(5));
-console.log(isEven(100))
+console.log(isEven(7));
+console.log(isEven(50))
