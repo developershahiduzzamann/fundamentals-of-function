@@ -9,3 +9,13 @@ function isEven (number){
 console.log(isEven(5));
 console.log(isEven(100))
 
+function isodd (number){
+    if(number % 2 ===1){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
+console.log(isEven(5));
+console.log(isEven(100))
