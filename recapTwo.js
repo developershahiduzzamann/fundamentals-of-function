@@ -25,3 +25,5 @@ function domath (num3, num4){
 }
 const result = domath(34, 45);
 console.log(result);
+
+
